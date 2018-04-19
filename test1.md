@@ -1,4 +1,4 @@
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](minion.png)
 
 > a
   > b
